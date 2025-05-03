@@ -1,0 +1,38 @@
+{
+    "Iron_Maiden_Albums": [
+        {
+            "title": "Iron Maiden",
+            "year": 1980,
+            "cover_image_base64": "data:image/jpeg;base64,YOUR_BASE64_ENCODED_IMAGE_HERE",
+            "songs": [
+                {
+                    "title": "Prowler",
+                    "duration": "3:55",
+                    "writers": ["Steve Harris"]
+                },
+                {
+                    "title": "Remember Tomorrow",
+                    "duration": "5:27",
+                    "writers": ["Steve Harris", "Paul Di'Anno"]
+                }
+            ]
+        },
+        {
+            "title": "The Number of the Beast",
+            "year": 1982,
+            "cover_image_base64": "data:image/jpeg;base64,YOUR_BASE64_ENCODED_IMAGE_HERE",
+            "songs": [
+                {
+                    "title": "Invaders",
+                    "duration": "3:23",
+                    "writers": ["Steve Harris"]
+                },
+                {
+                    "title": "Run to the Hills",
+                    "duration": "3:53",
+                    "writers": ["Steve Harris"]
+                }
+            ]
+        }
+    ]
+}
