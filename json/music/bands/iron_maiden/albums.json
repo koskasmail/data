@@ -1,0 +1,155 @@
+{
+    "Iron_Maiden_Albums": [
+        {
+            "title": "Iron Maiden",
+            "year": 1980,
+            "songs": [
+                "Prowler",
+                "Remember Tomorrow",
+                "Running Free",
+                "Phantom of the Opera",
+                "Transylvania",
+                "Strange World",
+                "Charlotte the Harlot",
+                "Iron Maiden"
+            ]
+        },
+        {
+            "title": "Killers",
+            "year": 1981,
+            "songs": [
+                "The Ides of March",
+                "Wrathchild",
+                "Murders in the Rue Morgue",
+                "Another Life",
+                "Genghis Khan",
+                "Innocent Exile",
+                "Killers",
+                "Prodigal Son",
+                "Purgatory",
+                "Drifter"
+            ]
+        },
+        {
+            "title": "The Number of the Beast",
+            "year": 1982,
+            "songs": [
+                "Invaders",
+                "Children of the Damned",
+                "The Prisoner",
+                "22 Acacia Avenue",
+                "The Number of the Beast",
+                "Run to the Hills",
+                "Gangland",
+                "Hallowed Be Thy Name"
+            ]
+        },
+        {
+            "title": "Piece of Mind",
+            "year": 1983,
+            "songs": [
+                "Where Eagles Dare",
+                "Revelations",
+                "Flight of Icarus",
+                "Die With Your Boots On",
+                "The Trooper",
+                "Still Life",
+                "Quest for Fire",
+                "Sun and Steel",
+                "To Tame a Land"
+            ]
+        },
+        {
+            "title": "Powerslave",
+            "year": 1984,
+            "songs": [
+                "Aces High",
+                "2 Minutes to Midnight",
+                "Losfer Words (Big 'Orra)",
+                "Flash of the Blade",
+                "The Duellists",
+                "Back in the Village",
+                "Powerslave",
+                "Rime of the Ancient Mariner"
+            ]
+        },
+        {
+            "title": "Somewhere in Time",
+            "year": 1986,
+            "songs": [
+                "Caught Somewhere in Time",
+                "Wasted Years",
+                "Sea of Madness",
+                "Heaven Can Wait",
+                "The Loneliness of the Long Distance Runner",
+                "Stranger in a Strange Land",
+                "Deja-Vu",
+                "Alexander the Great"
+            ]
+        },
+        {
+            "title": "Seventh Son of a Seventh Son",
+            "year": 1988,
+            "songs": [
+                "Moonchild",
+                "Infinite Dreams",
+                "Can I Play with Madness",
+                "The Evil That Men Do",
+                "Seventh Son of a Seventh Son",
+                "The Prophecy",
+                "The Clairvoyant",
+                "Only the Good Die Young"
+            ]
+        },
+        {
+            "title": "Fear of the Dark",
+            "year": 1992,
+            "songs": [
+                "Be Quick or Be Dead",
+                "From Here to Eternity",
+                "Afraid to Shoot Strangers",
+                "Fear Is the Key",
+                "Childhood's End",
+                "Wasting Love",
+                "The Fugitive",
+                "Chains of Misery",
+                "The Apparition",
+                "Judas Be My Guide",
+                "Weekend Warrior",
+                "Fear of the Dark"
+            ]
+        },
+        {
+            "title": "Brave New World",
+            "year": 2000,
+            "songs": [
+                "The Wicker Man",
+                "Ghost of the Navigator",
+                "Brave New World",
+                "Blood Brothers",
+                "The Mercenary",
+                "Dream of Mirrors",
+                "The Fallen Angel",
+                "The Nomad",
+                "Out of the Silent Planet",
+                "The Thin Line Between Love and Hate"
+            ]
+        },
+        {
+            "title": "Senjutsu",
+            "year": 2021,
+            "songs": [
+                "Senjutsu",
+                "Stratego",
+                "The Writing on the Wall",
+                "Lost in a Lost World",
+                "Days of Future Past",
+                "The Time Machine",
+                "Darkest Hour",
+                "Death of the Celts",
+                "The Parchment",
+                "Hell on Earth"
+            ]
+        }
+    ]
+}
